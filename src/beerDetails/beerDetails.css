@@ -1,0 +1,40 @@
+.beerDetails{
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row;
+    width:87%
+}
+
+.details{
+    display: flex;
+    width: 80%;
+}
+
+.nameAndDesc{
+    display: flex;
+    flex-flow: column;
+}
+
+.name{
+    font-size: medium;
+}
+
+.readOnly{
+    border-color: transparent;
+}
+
+.secondCol{
+    width: 70%;
+}
+
+.detailContainer{
+    width: 50%;
+}
+
+.importExport{
+    display: flex;
+}
+
+.importExport * {
+    margin: 10px;
+}

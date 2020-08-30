@@ -1,0 +1,11 @@
+.option{
+    border: black 2px solid;
+    margin:auto;
+    border-radius: 5px;
+    margin:10px;
+    text-align: center;
+    padding: 5px;
+}
+.menu{
+    margin:10px;  
+}

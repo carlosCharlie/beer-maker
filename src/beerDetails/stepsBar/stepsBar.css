@@ -1,0 +1,8 @@
+.progressbar{
+ width: 80%;
+ margin: 20px
+}
+
+.progressbar input, .progressbar textarea{
+    width: 80%;
+}

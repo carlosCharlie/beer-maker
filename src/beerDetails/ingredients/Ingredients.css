@@ -1,0 +1,15 @@
+#amountIngredient{
+    width: 30px;
+}
+
+#nameIngredient{
+    width: 100px;
+}
+
+.Ingredients{
+    width: 90%;
+}
+
+.ingredientData{
+    display: flex;
+}
