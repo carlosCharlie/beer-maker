@@ -1,8 +1,48 @@
 .progressbar{
+ margin-right: 10px;
+ border-right-width: 2px;
+ border-right-style: ridge;
  width: 80%;
- margin: 20px
 }
 
 .progressbar input, .progressbar textarea{
-    width: 80%;
+   
+    border-radius: 10px;
+    border-width: 2px;
+}
+.progressbar textarea{
+    margin-top: 10px;
+    height: 100px;
+    border-width: 2px;
+}
+
+.progressbar textarea[disabled]{
+    margin-top: 10px;
+    border-width: 2px;
+}
+.divider{
+    height: 100%;
+    margin-left: 4px;
+    border-left-width: 3px;
+    border-left-style: solid;
+    position: absolute;
+    top:30px;
+    left:17px;
+}
+
+.circle{
+    width: 15px;
+    height: 15px;
+    border-width: 3px;
+    border-style: solid;
+    position: relative;
+    top:30px;
+    left:-28px;
+    border-radius:100%;
+}
+
+ul{
+    display:inline-block;
+    position:relative;
+    font-size: xx-large;
 }

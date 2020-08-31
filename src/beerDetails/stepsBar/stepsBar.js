@@ -24,14 +24,16 @@ class StepsBar extends React.Component{
         return 	<div className="progressbar">
                     <h3>Steps:</h3>
                     
-                    <ol>
+                    <ul>
                         {this.props.steps.map((step,i) =>     
                             <li>
+                                <div className="circle"></div>
                                 <input disabled className="title" value={step.name}/>
                                 <textarea disabled className="description" value={step.description}/>
+                                <div className="divider"></div>
                             </li>     
                         )}
-                    </ol>
+                    </ul>
                     
                     <a onClick={()=>this.setState({addingStep:true})} style={this.state.addingStep?{display:"none"}:null}><h5>+ Add Step</h5></a>
                     <div style={this.state.addingStep?null:{display:"none"}}>

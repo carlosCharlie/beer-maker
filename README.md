@@ -1,7 +1,6 @@
 <h1 align="center">Beer Maker</h1>
 <h3 align="center"> A tool for saving and sharing craft beers recipes</h3>
 <p align="center">this app is being developed with the unique purpose of learning React.</p>
-ei
 
 <h2> React ReadMe </h2>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
