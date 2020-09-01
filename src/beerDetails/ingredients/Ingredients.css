@@ -1,13 +1,25 @@
 #amountIngredient{
     width: 30px;
+    border-radius: 8px;
+    border-width: 2px;
+    margin-right: 2px;
+    border-style: solid;
 }
 
 #nameIngredient{
     width: 100px;
+    border-radius: 8px;
+    border-width: 2px;
+    margin-right: 2px;
+    border-style: solid;
 }
 
 .Ingredients{
     width: 90%;
+}
+
+.Ingredients li{
+    font-size: medium;
 }
 
 .ingredientData{

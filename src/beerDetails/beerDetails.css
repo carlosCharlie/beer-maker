@@ -47,6 +47,7 @@
 
 .importExport{
     display: flex;
+    margin-bottom: 15%;
 }
 
 .importExport div {
