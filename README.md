@@ -1,4 +1,4 @@
-<h1 align="center">Beer Maker<img src="public/logo192.png" width="30" height="30"/> </h1>
+<h1 align="center">Beer Maker <img src="public/logo192.png" width="30" height="30"/> </h1>
 <h3 align="center"> A tool for saving and sharing craft beers recipes</h3>
 <p align="center">this app is being developed with the unique purpose of learning React.
 <br>
