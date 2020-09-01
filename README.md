@@ -2,7 +2,7 @@
 <h3 align="center"> A tool for saving and sharing craft beers recipes</h3>
 <p align="center">this app is being developed with the unique purpose of learning React.
 <br>
-try the last online version <a href>here</a>.
+try the last online version <a href="https://carloscharlie.github.io/beer-maker/build/index.html">here</a>.
 </p>
 
 <h2> React ReadMe </h2>
